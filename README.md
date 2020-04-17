@@ -2,7 +2,7 @@
 
 Created a Weather App to display the weather of the city inputted.
 
-Check the demo here: [Weather App](https://tjgillweb.github.io/Weather-App/)
+Check the demo here: [Weather App](http://weather.tjgill.com/)
 
 Features of the App:
 - Uses the [Accuweather](https://www.accuweather.com/) API 
